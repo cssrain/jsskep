@@ -1,4 +1,6 @@
-﻿var funcTools = {};
+﻿/*2010.9.21*/
+
+var funcTools = {};
 //对象转成字符串
 funcTools.objToString = function(obj){
 		var a = obj;
